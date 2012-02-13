@@ -1,7 +1,6 @@
-# You can specialize this file for each language.
-# For example, for French create a messages.fr file
 #
+#Mon Feb 13 12:12:23 EST 2012
 text.key.1=
 text.key.2=
-text.key.3.html=
+text.key.3.html=<p>*this is an asterick with 5.43%%</p>
 text.key.4.html=
