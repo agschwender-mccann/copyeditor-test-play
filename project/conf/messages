@@ -1,6 +1,11 @@
 #
-#Mon Feb 13 13:21:37 EST 2012
+#Mon Feb 13 13:24:13 EST 2012
 text.key.1=
 text.key.2=
-text.key.3.html=<p>*this is an asterick with 5.43%% and some more stuff</p>
+text.key.3.html=<p>This is the first paragraph of something</p>\
+\
+<pre><code>\*this is an asterick with 5\.43%% and some more stuff\
+</code></pre>\
+\
+<p>And here is another paragraph, let's see what this does. </p>
 text.key.4.html=
