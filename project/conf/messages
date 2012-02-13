@@ -1,10 +1,18 @@
 #
-#Mon Feb 13 13:24:39 EST 2012
-text.key.1=
+#Mon Feb 13 13:42:23 EST 2012
+text.key.1=*This is a non-html key*
 text.key.2=
 text.key.3.html=<p>This is the first paragraph of something</p>\
 \
 <p>*this is an asterick with 5.43%% and some more stuff</p>\
 \
 <p>And here is another paragraph, let's see what this does.</p>
-text.key.4.html=
+text.key.4.html=<h1>Gonna do a header</h1>\
+\
+<ul>\
+<li>Bullet1 with *</li>\
+<li>Bullet2 with %%</li>\
+<li>Bullet3 _</li>\
+</ul>\
+\
+<p><sup>1</sup>You're all that I need in the world!!!!!<sup>1</sup></p>
